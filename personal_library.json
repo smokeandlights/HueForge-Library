@@ -1,0 +1,40 @@
+{
+    "Filaments": [
+        {
+            "Brand": "ZLabs",
+            "Color": "#ffff7f",
+            "Name": "Yellow",
+            "Owned": true,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{63fcbd85-1512-412f-b3ce-d0731461cc7f}"
+        },
+        {
+            "Brand": "ZLabs",
+            "Color": "#531d10",
+            "Name": "Walnut",
+            "Owned": true,
+            "Transmissivity": 0.2,
+            "Type": "PLA+",
+            "uuid": "{338936fc-5103-42ae-b4a2-989aefc79de1}"
+        },
+        {
+            "Brand": "ZLabs",
+            "Color": "#162c15",
+            "Name": "Not Quite Black",
+            "Owned": true,
+            "Transmissivity": 0.6,
+            "Type": "PLA+",
+            "uuid": "{24988de6-93bd-48cb-97ee-d30844bc14a3}"
+        },
+        {
+            "Brand": "Numakers",
+            "Color": "#fa0010",
+            "Name": "Poppy Red",
+            "Owned": true,
+            "Transmissivity": 2.9,
+            "Type": "PLA+",
+            "uuid": "{3b789699-ffec-440d-9031-ec2a47e662f6}"
+        }
+    ]
+}
